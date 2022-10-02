@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2963" started-at="2022-10-02T02:54:21Z" finished-at="2022-10-02T02:54:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2963" started-at="2022-10-02T02:54:21Z" finished-at="2022-10-02T02:54:24Z">
+      <class name="basics.c1">
+        <test-method status="PASS" signature="h()[pri:0, instance:basics.c1@2abf4075]" name="h" duration-ms="2866" started-at="2022-10-02T02:54:21Z" finished-at="2022-10-02T02:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- basics.c1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
